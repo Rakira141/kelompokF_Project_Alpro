@@ -6,12 +6,11 @@ Repository ini berisi Project Akhir Mata Kuliah Algoritma dan Pemrograman yang d
 
 ## Anggota Kelompok
 
-1. Nama Anggota 1
-2. Nama Anggota 2
-3. Nama Anggota 3
-4. Yudhistira Dwiki Saputra
-5. Nama Anggota 5
-6. Nama Anggota 6
+1. Yudhistira Dwiki Saputra - K1D025048
+2. Athar Fikri Kamaluddin - K1D025050
+3. Findy Aulia - K1D025071
+4. Muhammad Reza Pahlevi - K1D025075
+5. Inas Nidaurrahman - K1D025080
 
 ## Struktur Folder
 
@@ -19,6 +18,7 @@ Repository ini berisi Project Akhir Mata Kuliah Algoritma dan Pemrograman yang d
 kelompokF_Project_Alpro/
 │
 ├── README.md
+│
 ├── src_python/
 │   ├── 01_analisis_teks.py
 │   ├── 02_string_kalimat.py
@@ -36,9 +36,20 @@ kelompokF_Project_Alpro/
 │   └── 06_interval_proporsi.R
 │
 ├── docs/
+│   ├── laporan_project.pdf
+│   ├── pseudocode_dan_flowchart.pdf
+│   └── tabel_pengujian.pdf
+│
 ├── screenshots/
+│   ├── python_soal_01.png
+│   ├── r_soal_01.png
+│   └── dst...
+│
 ├── presentation/
+│   └── slide_project.pdf
+│
 └── demo/
+    └── link_video_demo.txt
 ```
 
 ## Daftar Program
