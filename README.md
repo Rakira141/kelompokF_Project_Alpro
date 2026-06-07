@@ -48,10 +48,11 @@ kelompokF_Project_Alpro/
 ├── presentation/
 │   └── slide_project.pdf
 │
-└── demo/
-    └── link_video_demo.txt
+├── demo/
+│   └── link_video_demo.txt
+│
 └── AI/
-    └── prompt_ai.md
+└── prompt_ai.md
 ```
 
 ## Daftar Program
