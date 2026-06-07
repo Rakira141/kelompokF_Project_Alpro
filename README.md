@@ -50,6 +50,8 @@ kelompokF_Project_Alpro/
 │
 └── demo/
     └── link_video_demo.txt
+└── AI/
+    └── prompt_ai.md
 ```
 
 ## Daftar Program
