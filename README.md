@@ -9,8 +9,7 @@ Repository ini berisi Project Akhir Mata Kuliah Algoritma dan Pemrograman yang d
 1. Yudhistira Dwiki Saputra - K1D025048
 2. Athar Fikri Kamaluddin - K1D025050
 3. Findy Aulia - K1D025071
-4. Muhammad Reza Pahlevi - K1D025075
-5. Inas Nidaurrahman - K1D025080
+4. Inas Nidaurrahman - K1D025080
 
 ## Struktur Folder
 
