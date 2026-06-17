@@ -37,21 +37,33 @@ kelompokF_Project_Alpro/
 ├── docs/
 │   ├── laporan_project.pdf
 │   ├── pseudocode_dan_flowchart.pdf
-│   └── tabel_pengujian.pdf
+│   ├── tabel_pengujian.pdf
+│   └── penjelasan_tiap_baris_kode.pdf
 │
-├── screenshots/
-│   ├── python_soal_01.png
-│   ├── r_soal_01.png
-│   └── dst...
+├── screenshots Python/
+│   ├── soal_01_python.png
+│   ├── soal_02_python.png
+│   ├── soal_03_python.png
+│   ├── soal_04_python.png
+│   ├── soal_05_python.png
+│   └── soal_06_python.png
 │
-├── presentation/
+├── screenshots R/
+│   ├── soal_01_R.png
+│   ├── soal_02_R.png
+│   ├── soal_03_R.png
+│   ├── soal_04_R.png
+│   ├── soal_05_R.png
+│   └── soal_06_R.png
+│
+├── presentasion/
 │   └── slide_project.pdf
 │
 ├── demo/
 │   └── link_video_demo.txt
 │
 └── AI/
-└── prompt_ai.md
+    └── prompt_ai.md
 ```
 
 ## Daftar Program
